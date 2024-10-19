@@ -17,4 +17,4 @@ Interested in joining the Mayfest Tech Team? We're always looking for creative a
 
 ### Contact Us 📧📧
 
-If you have any questions, reach out to us at [mayfesttechnology@gmail.com](mailto:technology@dilloday.com).
+If you have any questions, reach out to us at [technology@dilloday.com](mailto:technology@dilloday.com).
